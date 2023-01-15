@@ -1,2 +1,12 @@
-# phase2-capstone
-Capstone project for second phase of AI Academy. 
+# Predicting Empployee Attrition Using Decision Trees
+// Elevator pitch here //
+
+### Business Understanding
+
+### Data Understanding
+
+### Model and Evaluation
+
+### Conclusion
+
+### Repository Navigation
