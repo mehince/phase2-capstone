@@ -1,4 +1,4 @@
-![Header](./employee_burnout.png)
+![Header](./employee_burnout_cropped.png)
 
 # Predicting Employee Attrition Using Decision Trees and Random Forests
 // Elevator pitch here //
