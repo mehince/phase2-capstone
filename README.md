@@ -1,4 +1,4 @@
-# Predicting Empployee Attrition Using Decision Trees
+# Predicting Employee Attrition Using Decision Trees
 // Elevator pitch here //
 
 ### Business Understanding
