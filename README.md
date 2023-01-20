@@ -1,4 +1,4 @@
-![Header](./phase2-capstone/employee_burnout.jpg)
+![Header](./employee_burnout.png)
 
 # Predicting Employee Attrition Using Decision Trees and Random Forests
 // Elevator pitch here //
