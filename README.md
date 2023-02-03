@@ -30,8 +30,14 @@ Our final model had better metrics than both the models before, but it still is 
 ![Random Forest Model](./Photos/random_forest_model.png)
 
 ## Conclusion
+Based off the performance of our final model, this method as it is now cannot be used to predict employee attrition. This final model above using random forests has overall better scores than both our baseline and resampled models, but is still not accurate or precise enough to be used when making real-world decisions. Overhauling both hiring and retention techniques costs time and money - time and money that might be wasted if the above model predicts either false positives or false negatives.
+
+This is a good starting point for upper leadership and/or human resources staff at any organization to evaluate whether they are effectively hiring and retaining their employees. However, results can further improve by collecting better data, further tuning models, and using more rigorous technologies such as neural networks to predict employee attrition. 
 
 ## Repository Navigation
+**First**: take a look at this README to get a gist of the dataset, problem, and stakeholders.
+**Next**: navigate to the [Jupyter Notebook](Code/Predicting Employee Attrition Using Decision Trees and Random Forests.ipynb) to see code and an in-depth description of how the problem could be solved.
+**Finally**: take a look at the [final presentation](AI Academy Final Presentation.pptx). 
 
 ## Sources
 [Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) <br/>
