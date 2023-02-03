@@ -41,6 +41,10 @@ This is a good starting point for upper leadership and/or human resources staff 
 
 ## Sources
 [Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) <br/>
+[Encoding Values](https://pbpython.com/categorical-encoding.html) <br/>
+[Scikit-Learn Evaluation Metrics Documentation](https://scikit-learn.org/stable/modules/model_evaluation.html) <br/>
+[Scikit-Learn Decision Tree Documentation](https://scikit-learn.org/stable/modules/tree.html) <br/>
+[Scikit-Learn Random Forest Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) <br/>
 [Learning about SMOTE](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/) <br/>
 [Understanding Random Forests](https://towardsdatascience.com/understanding-random-forest-58381e0602d2) <br/>
 [Using a Random Forest Model](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
