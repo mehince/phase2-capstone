@@ -1,2 +1,5 @@
 # ignoring data folder
 Data/
+
+# ignoring exploratory code jupyter notebook
+Code/Exploratory\ Code.ipynb
