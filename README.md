@@ -25,7 +25,7 @@ First, an untuned decision tree model was used to get a baseline for later model
 ## Repository Navigation
 
 ## Sources
-[Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-[Learning about SMOTE](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/)
-[Understanding Random Forests](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
+[Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) <br/>
+[Learning about SMOTE](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/) <br/>
+[Understanding Random Forests](https://towardsdatascience.com/understanding-random-forest-58381e0602d2) <br/>
 [Using Random Forest Model](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
