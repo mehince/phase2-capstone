@@ -35,9 +35,9 @@ Based off the performance of our final model, this method as it is now cannot be
 This is a good starting point for upper leadership and/or human resources staff at any organization to evaluate whether they are effectively hiring and retaining their employees. However, results can further improve by collecting better data, further tuning models, and using more rigorous technologies such as neural networks to predict employee attrition. 
 
 ## Repository Navigation
-**First**: take a look at this README to get a gist of the dataset, problem, and stakeholders. <br/>
-**Next**: navigate to the [Jupyter Notebook](Code/Predicting Employee Attrition Using Decision Trees and Random Forests.ipynb) to see code and an in-depth description of how the problem could be solved. <br/>
-**Finally**: take a look at the [final presentation](AI Academy Final Presentation.pptx). <br/>
+**1.)** Take a look at this README to get a gist of the dataset, problem, and stakeholders. <br/>
+**2.)** Navigate to the [Jupyter Notebook](Code/Predicting Employee Attrition Using Decision Trees and Random Forests.ipynb) to see code and an in-depth description of how the problem could be solved. <br/>
+**3.)** Take a look at the [final presentation](AI Academy Final Presentation.pptx). <br/>
 
 ## Sources
 [Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) <br/>
