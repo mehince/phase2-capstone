@@ -18,14 +18,16 @@ Although there were no missing values in this dataset, it is a small dataset rel
 Another limitation of this data is that there is a class imbalance - there is a much higher number of employees who stayed at IBM than left in this dataset. This class imbalance was addressed by resampling the data using SMOTE (Synthetic Minority Oversampling TEchnique).
 
 ## Model(s) and Evaluation
-First, an untuned decision tree model was used to get a baseline for later models' performance. As expected, this first model's accuracy, precision, recall and Area Under the ROC Curve (AUC) scores were low relative to what is desired for a machine learning model. 
+First, an untuned decision tree model was used to get a baseline for later models' performance. As expected, this first model's accuracy, precision, recall and Area Under the ROC Curve (AUC) scores were low relative to what is desired for a machine learning model. <br/>
 ![Baseline Model](./Photos/baseline_model.png)
 
-To improve model performance, SMOTE was used to resample the dataset so there was an equal number of employees who stayed at IBM and left IBM. This was done because the previous model was excelling at identifying an employee that would stay at the company, but was not good at identifying those who left. This second model had a lower accuracy, but higher precision, recall, and AUC scores, meaning it was getting better at identifying true positives and true negatives.
+To improve model performance, SMOTE was used to resample the dataset so there was an equal number of employees who stayed at IBM and left IBM. This was done because the previous model was excelling at identifying an employee that would stay at the company, but was not good at identifying those who left. This second model had a lower accuracy, but higher precision, recall, and AUC scores, meaning it was getting better at identifying true positives and true negatives. <br/>
+![Resampled Model](./Photos/resampled_model.png)
 
 Finally, a random forest model was trained with the resampled data to try and further improve performance. Because a random forest model is a collection of decision trees working together to classify things more accurately, this will be used as the final iteration of the model we'll use to try and predict employee attrition.
 
-Our final model had better metrics than both the models before, but it still is not up to the standard of a machine learning model that would be used to make real-world decisions that affect businesses and employees.
+Our final model had better metrics than both the models before, but it still is not up to the standard of a machine learning model that would be used to make real-world decisions that affect businesses and employees. <br/>
+![Random Forest Model](./Photos/random_forest_model.png)
 
 ## Conclusion
 
