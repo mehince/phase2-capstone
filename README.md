@@ -36,8 +36,8 @@ This is a good starting point for upper leadership and/or human resources staff 
 
 ## Repository Navigation
 Take a look at this README to get a gist of the dataset, problem, and stakeholders. <br/>
-Navigate to the [Jupyter Notebook](./Code/Predicting Employee Attrition Using Decision Trees and Random Forests.ipynb) to see code and an in-depth description of how the problem could be solved. <br/>
-**3.)** Take a look at the [final presentation](./AI Academy Final Presentation.pptx). <br/>
+Navigate to the [Jupyter Notebook](./Code/"Predicting Employee Attrition Using Decision Trees and Random Forests.ipynb") to see code and an in-depth description of how the problem could be solved. <br/>
+**3.)** Take a look at the [final presentation](./"AI Academy Final Presentation.pptx"). <br/>
 
 ## Sources
 [Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) <br/>
