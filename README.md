@@ -19,6 +19,7 @@ Another limitation of this data is that there is a class imbalance - there is a 
 
 ## Model(s) and Evaluation
 First, an untuned decision tree model was used to get a baseline for later models' performance. As expected, this first model's accuracy, precision, recall and Area Under the ROC Curve (AUC) scores were low relative to what is desired for a machine learning model. 
+![Baseline Model](./Photos/baseline_model.png)
 
 To improve model performance, SMOTE was used to resample the dataset so there was an equal number of employees who stayed at IBM and left IBM. This was done because the previous model was excelling at identifying an employee that would stay at the company, but was not good at identifying those who left. This second model had a lower accuracy, but higher precision, recall, and AUC scores, meaning it was getting better at identifying true positives and true negatives.
 
